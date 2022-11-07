@@ -95,12 +95,12 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="btuUnit2" destination="Cgb-5H-kJc" id="PAi-Yv-Tes"/>
-                        <outlet property="btunit1" destination="shD-hA-VSo" id="Noj-dU-nL4"/>
+                        <outlet property="btUnit1" destination="shD-hA-VSo" id="SvJ-DF-1nh"/>
+                        <outlet property="btUnit2" destination="Cgb-5H-kJc" id="T1B-jv-3su"/>
                         <outlet property="lbResult" destination="PeQ-Y7-T9X" id="IWT-Ya-qvP"/>
                         <outlet property="lbResultUnit" destination="auY-Yu-Wf5" id="NxB-7S-NrN"/>
                         <outlet property="lbUnit" destination="gax-nn-0TS" id="aF7-2e-Jv9"/>
-                        <outlet property="tfvalue" destination="Eyz-AY-XCr" id="Dhs-zE-LAQ"/>
+                        <outlet property="tfValue" destination="Eyz-AY-XCr" id="kTr-wX-MH8"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
